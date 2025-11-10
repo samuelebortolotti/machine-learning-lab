@@ -181,7 +181,7 @@ def plot_pca_clusters(X_pca, y, dimensions=False):
 
 
 def generate_data(mu, sigma, N=2500, radius=1):
-    """Generate a binary classification dataset using the formula above.
+    """Generate a binary classification dataset using the given formula.
 
     :param mu: the mean of the normal distribution
     :param sigma: the standard deviation of the normal distribution
@@ -198,11 +198,11 @@ def generate_data(mu, sigma, N=2500, radius=1):
         if len(X) < N//2:
             if (x[0]**2 + x[1]**2) > radius**2:
                 X.append(x)
-                Y.append(0)
+                Y.append(1)
         else:
             if 0 <= (x[0]**2 + x[1]**2) <= (radius/2)**2:
                 X.append(x)
-                Y.append(1)
+                Y.append(0)
 
         if len(X) == N:
             break
