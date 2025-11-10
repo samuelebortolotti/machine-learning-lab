@@ -6,5 +6,6 @@ To open the Colab notebook:
 
 - Right click over *main.ipynb*
 - Select *open with*
-- Pick 'Google Colaboratory'
+- Pick *Google Colaboratory*
+
 
