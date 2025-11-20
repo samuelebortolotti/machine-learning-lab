@@ -2,6 +2,10 @@
 
 Official repository for the lab sessions of the *Machine Learning* course (Academic Year 2025/2026), taught by Prof. Andrea Passerini at the University of Trento.
 
+---
+
+# Scikit-learn and Supervised Learning
+
 ## Getting Started
 
 Ensure that you have **Python 3.7 or higher** installed on your system. Then, install the required packages using `pip`:
@@ -36,6 +40,12 @@ cd sklearn
 ```bash
 jupyter notebook
 ```
+
+---
+
+# Pytorch
+
+We suggest to use the provided **Google Colab** link for the notebook.
 
 ---
 
