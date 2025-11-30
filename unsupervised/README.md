@@ -8,7 +8,7 @@ Please find the lab material at the following link: [Google Drive Folder](https:
 
 To open the notebook in Google Colab:
 
-1. Right-click on `main.ipynb`
+1. Right-click on `unsupervised-lab.ipynb`
 2. Select **Open with**
 3. Choose **Google Colaboratory**
 
