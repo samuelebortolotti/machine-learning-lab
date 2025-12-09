@@ -4,8 +4,6 @@ Official repository for the lab sessions of the *Machine Learning* course (Acade
 
 ---
 
-# Scikit-learn and Supervised Learning
-
 ## Getting Started
 
 Ensure that you have **Python 3.7 or higher** installed on your system. Then, install the required packages using `pip`:
@@ -15,37 +13,7 @@ pip install numpy scipy matplotlib scikit-learn pandas seaborn
 pip install jupyter
 ```
 
-> Alternatively, you can use the provided **Google Colab** links for the notebooks.
-
----
-
-## Scikit-learn Notebook
-
-1. Clone this repository using:
-
-```bash
-git clone <repository-link>
-```
-
-or download and unzip it manually.
-
-2. Navigate to the `./sklearn` directory in your terminal:
-
-```bash
-cd sklearn
-```
-
-3. Launch the Jupyter Notebook server:
-
-```bash
-jupyter notebook
-```
-
----
-
-# Pytorch
-
-We suggest to use the provided **Google Colab** link for the notebook.
+> Alternatively, you can use the provided **Google Colab** links for the notebooks (see folders for details).
 
 ---
 
